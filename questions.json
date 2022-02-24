@@ -36,7 +36,47 @@
         "b": "split",
         "c": "strip",
         "pts": 2,
-        "q": "Quelle méthode doit être utilisée pour enlever les espaces au dédut et à la fin",
+        "q": "Quelle méthode doit etre utilisee pour enlever les espaces au dedut et à la fin?",
+        "rep": "c"
+    },
+    {
+        "a": "Objet connecte",
+        "b": "course à pied",
+        "c": "anglais",
+        "pts": 2,
+        "q": "Quel est le cour 4B5?",
+        "rep": "a"
+    },
+    {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "pts": 2,
+        "q": "2 + 2 = ?",
+        "rep": "b"
+    },
+    {
+        "a": "noir",
+        "b": "blanc",
+        "c": "brun",
+        "pts": 1,
+        "q": "De quel couleur est le cheval blanc de Napoleon?",
+        "rep": "b"
+    },
+    {
+        "a": "Russie",
+        "b": "Canada",
+        "c": "Inde",
+        "pts": 1,
+        "q": "Quel est le plus grand pays du monde?",
+        "rep": "a"
+    },
+    {
+        "a": "Soleil",
+        "b": "Jupiter",
+        "c": "Lune",
+        "pts": 2,
+        "q": "Quel est le satellite de la Terre?",
         "rep": "c"
     }
 ]
