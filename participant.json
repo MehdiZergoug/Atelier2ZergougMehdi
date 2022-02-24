@@ -1,0 +1,83 @@
+[
+    {
+        "reponse": {
+            "nomUtilisateur": "a",
+            "listeReponse": [
+                "Raspberry Pi",
+                "Python"
+            ],
+            "bonneReponse": 2,
+            "pointage": 4
+        }
+    },
+    {
+        "reponse": {
+            "nomUtilisateur": "med",
+            "listeReponse": [
+                "Raspberry Pi",
+                "Python",
+                "Visual Studio Code",
+                "#",
+                "strip"
+            ],
+            "bonneReponse": 2,
+            "pointage": 4
+        }
+    },
+    {
+        "reponse": {
+            "nomUtilisateur": "boubou",
+            "listeReponse": [
+                "Raspberry Pi",
+                "Python",
+                "Visual Studio Code",
+                "#",
+                "strip"
+            ],
+            "bonneReponse": 2,
+            "pointage": 3
+        }
+    },
+    {
+        "reponse": {
+            "nomUtilisateur": "testDebug",
+            "listeReponse": [
+                "Raspberry Pi",
+                "Python",
+                "Visual Studio Code",
+                "#",
+                "strip"
+            ],
+            "bonneReponse": 1,
+            "pointage": 2
+        }
+    },
+    {
+        "reponse": {
+            "nomUtilisateur": "debugTest2",
+            "listeReponse": [
+                "Raspberry Pi",
+                "C++",
+                "Android Studio",
+                "@",
+                "split"
+            ],
+            "bonneReponse": 1,
+            "pointage": 2
+        }
+    },
+    {
+        "reponse": {
+            "nomUtilisateur": "caca",
+            "listeReponse": [
+                "Banana Pi",
+                "Java",
+                "Android Studio",
+                "*",
+                "strip"
+            ],
+            "bonneReponse": 1,
+            "pointage": 2
+        }
+    }
+]
